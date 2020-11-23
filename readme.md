@@ -4,19 +4,6 @@ Hello world! I'm Manuel Jesus *(aka emanuell)* and I'm currently a computer scie
 ## About me and my personality
 I consider myself a geek person from both Mr Robot, La Casa de Papel and, at the book level, authors such as Suzanne Collins or Dan Brown among others. One of my hobbies is photography but I also like to learn and I am in a process of studying computer security, especially the field of social engineering.
 
-## What to do?
-### Programming Languages
-🐍 Python
-
-🖥️ C
-
-🌐 Javascript
-
-### Operating Systems
-Windows (Server & Client)
-
-Linux (Debian, Ubuntu, Lubuntu, Guadalinex and Security (Kali, Parrot, CAINE))
-
 ## Some projects...
 - [RepoUpo 2021](https://github.com/manueljesus00/repoupo2021)
   - Unofficial repository where I upload code from university programming classes.
@@ -29,13 +16,7 @@ Linux (Debian, Ubuntu, Lubuntu, Guadalinex and Security (Kali, Parrot, CAINE))
 - [TweBot](https://github.com/manueljesus00/TweBot.py)
   - Bot that write and send tweets with names, emails, personalized messages...
 
-## More info
-Volunteer @ Cruz Roja Española (Red Cross in Spain) since September 2015.
-
 ## Last but not least... Keep in touch!!
 [My twitter](https://twitter.com/_manueljesus00)
 
 [My email](mailto:fm.manueljesus00@protonmail.com)
-
-## EXTRA!!!
-![Cat](./cat.gif)
