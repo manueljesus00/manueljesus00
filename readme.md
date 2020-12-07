@@ -18,5 +18,7 @@ I consider myself a geek person from both Mr Robot, La Casa de Papel and, at the
 
 ## Last but not least... Keep in touch!!
 [My twitter](https://twitter.com/_manueljesus00)
-
 [My email](mailto:fm.manueljesus00@protonmail.com)
+
+## My info (why not?)
+[![Manuel Jesus's github stats](https://github-readme-stats.vercel.app/api?username=manueljesus000)](https://github.com/anuraghazra/github-readme-stats)
