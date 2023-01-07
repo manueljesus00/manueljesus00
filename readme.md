@@ -3,10 +3,6 @@
 
 - 📚 I’m currently studying at [Universidad Pablo de Olavide](https://upo.es/eps)
 
-- 🌱 I’m currently learning **Lombok and AWS Data Warehouse**
-
-- 👯 I’m currently collaborating on [RITSI (Reunión de Estudiantes de Ingenierías técnicas y superiores en Informática)](https://ritsi.org)
-
 - 🎓 My final year project [HomeLab (Only in Spanish)](https://github.com/manueljesus00/homelab)
 
 - 💬 Ask me about **Java, Python, CyberSec or Bash**
