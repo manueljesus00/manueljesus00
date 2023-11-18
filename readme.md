@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying the third year of Computer Engineering in Information Systems.<br>👯 I’m looking to collaborate in open source related projects.<br>💬 Ask me anything related to computer systems administration.<br>⚡ A fun fact is that, on a dare, I ended up creating the first computer science association at my university.
+🔭 I am currently studying the last year of Computer Engineering in Information Systems.<br>👯 I’m looking to collaborate in open source related projects.<br>💬 Ask me anything related to computer systems administration.<br>⚡ A fun fact is that, on a dare, I ended up creating the first computer science association at my university.
 
 
 ## 🌐 Socials:
